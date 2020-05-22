@@ -1,0 +1,28 @@
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.exe.config
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.exe
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.pdb
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.csprojAssemblyReference.cache
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Form1.resources
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Properties.Resources.resources
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.csproj.GenerateResource.cache
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.exe
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.pdb
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.administrator_logon.resources
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Admin_Panel.resources
+C:\Users\1\Source\Repos\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.User_Panel.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.exe.config
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.exe
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\bin\Debug\Numismatic_Shop.pdb
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.csprojAssemblyReference.cache
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.administrator_logon.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Admin_Panel.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Form1.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.Properties.Resources.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.User_Panel.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.csproj.GenerateResource.cache
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.csproj.CoreCompileInputs.cache
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.exe
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.pdb
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.database_order.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.helper.resources
+C:\Users\m_rac\Desktop\do ogarniecia\source\Numismatic_Shop\Numismatic_Shop\obj\Debug\Numismatic_Shop.user_database_admin.resources

@@ -1,0 +1,157 @@
+Multi-OEM/Retail Project Version : 181027-R102.0.BL - BaseLine [MRP via MDL Forum ONLY] 
+ 
+OEM's folder detected, structure appears OK. 
+ 
+.Net Versions Detected        - v1.1.4322, v2.0.50727, v4.0.30319, v4.7.2 or later {Rev:528040} 
+Powershell Versions Detected  - 1.0, 2.0, 3.0, 4.0, 5.0, 5.1 
+No Config File Detected       - Using Default Settings. 
+ 
+MRP Debug Logging Mode        : Enabled  - Log saved to 'C:\MRPDebug1.log' 
+Confirm File Delete           : Disabled 
+W10 TitleBar Color            : Disabled - Default Color of theme will be used. 
+Hi-Lite Colorization          : Disabled - Default Color of theme will be used. 
+Change Lock/Login Screen's    : Enabled  - Screen's will be replaced by theme in use. 
+Show 'ThisPC' On Desktop      : Disabled 
+ 
+OS Installation Date/Time     : 08/02/2019 {UTC} -- 12:08am 
+ 
+[OSINF] ======================= 
+[OSINF] Detected OS Information 
+[OSINF] ======================= 
+[OSINF] Installation Type     : Client {Non Server} 
+[OSINF] HyperVisor Detected   : No 
+[OSINF] PC System Type        : Desktop {0x1} 
+[OSINF] Domain Detected       : No 
+[OSINF] Version {SKU}         : Windows 10 Pro {48} 
+[OSINF] Edition {Registry}    : Professional {48} 
+[OSINF] Edition {CBS}         : Professional 
+[OSINF] Edition {Composition} : Enterprise 
+[OSINF] Architecture          : 64 Bit {AR:1} 
+[OSINF] Release Identifier    : 1903 
+[OSINF] Build Information     : 18362.1.amd64fre.19h1_release.190318-1202 
+[OSINF] Update Build Revision : 175 
+[OSINF] Edition Language/Code : pl-PL / 1045 {0x415h} 
+[OSINF] Locale                : pl-PL 
+[OSINF] Language Name Value   : PLK 
+[OSINF] =======================  
+ 
+[MBINF] ======================= 
+[MBINF] Motherboard Information 
+[MBINF] ======================= 
+[MBINF] #01 CS Product Name   : [To Be Filled By O.E.M.] 
+[MBINF] #02 CS Model Name     : [To Be Filled By O.E.M.] 
+[MBINF] #03 Baseboard Product : [AB350M Pro4] 
+[MBINF] #04 CS Vendor Name    : [To Be Filled By O.E.M.] 
+[MBINF] #05 CS System Name    : [To Be Filled By O.E.M.] 
+[MBINF] #06 Baseboard Name    : [ASRock] 
+[MBINF] #08 BIOS or SLIC ID 1 : [ALASKA - 1072009] 
+[MBINF] #09 SLIC Information  : [No SLIC Table Present] 
+[MBINF] #11 MSDM Information  : [Invalid MSDM Table Data] 
+[MBINF] Chassis Type {03}     : [Desktop] 
+[MBINF] BIOS Manufacturer     : [American Megatrends Inc.] 
+[MBINF] BIOS Version          : [P6.00] 
+[MBINF] BIOS Creation Date    : [08/02/2019] 
+[MBINF] ======================= 
+ 
+[CMINF] ======================= 
+[CMINF] CPU/Memory  Information 
+[CMINF] ======================= 
+[CMINF] CPU Full Name         : [AMD Ryzen 5 2600 Six-Core Processor ] 
+[CMINF] CPU Description       : [AMD64 Family 23 Model 8 Stepping 2] 
+[CMINF] CPU Architecture      : [32/64 Bit] 
+[CMINF] CPU ID Code           : [00F82] 
+[CMINF] CPU Revision Number   : [0802] 
+[CMINF] CPU Sockets Present   : [1] 
+[CMINF] CPU Cores/Threads     : [6] / [12] 
+[CMINF] CPU VT Firmware Mode  : [Enabled] 
+[CMINF] Memory Total Physical : [32696 MB] 
+[CMINF] Memory Available      : [31834 MB] 
+[CMINF] Memory Type {3}       : [Non-ECC] 
+[CMINF] Memory Board Max Slots: [4] 
+[CMINF] Memory Max Capacity   : [131072 MB] - Depends on motherboard's memory array as 4GB or below could be per slot. 
+[CMINF] Memory Max Per Slot   : [32768 MB] {Approx Value} 
+[CMINF] ======================= 
+ 
+[MELSP] INFO: This system does not appear to be vulnerable to Meltdown and/or Spectre. 
+[MELSP] INFO: CPU Performance Rating - Slower 
+[MELSP] WARN: CPU does NOT support low-overhead Meltdown protection. 
+[MELSP] INFO: Meltdown and Spectre tested using 'InSpectre' from Gibson Research, https://www.grc.com/inspectre.htm 
+[SUOEA] === Show other User Options applied , enabled or disabled === 
+[SUOEA] =====================[ Applied Options ]===================== 
+[CPANV] Set Control Panel's view to Category {Default}.  
+[AAFAS] Allow Apps from anywhere, default setting.  
+[SUOEA] =====================[ Enabled Options ]===================== 
+[SUOEA] No other User selected enabled options used. 
+[SUOEA] ===================[ MRP Disabled Options ]=================== 
+[SUOEA] No MRP disabled options. 
+[SUOEA] ===================[ End of Options List ]==================== 
+[REPDR] === Retail.txt/ei.cfg/PID.txt Detection Routines === 
+[REPDR] Note: Some results may return as 'not detected' if the install medium was removed during installation. 
+[REPDR] Retail.txt file was not detected within the "Scripts" folder. 
+[REPDR] Ei.cfg file was not detected. 
+[REPDR] PID.txt file was not detected. 
+[CKDMI] === Querying DMI for any OEM manufacturer brand information === 
+[CKDCF] No DMI conflicts found. 
+[CKDCF] DMI query routine completed. 
+[THMOK] Asrock [#06] manufacturer was detected for automated theme/branding. 
+[SYSPD] === Model Name Processing Routine === 
+[CHKMN] Model name not defined within the BIOS or was user specified. 
+[TBPRT] === Theme Processing Routines === 
+[USRFT] User specified theme was not defined. 
+[TBTMS] === Brand Transfer Management Routine === 
+[RMXML] OOBE.xml file has been processed. 
+[WPCHK] Wallpaper.jpg transferred. 
+[BGDFC] Desktop backgrounds folder created. 
+[BGDFC] BackgroundDefault.jpg created from Wallpaper.jpg. 
+[W8XAP] === Windows 10: Main User Account Picture Management === 
+[UBREP] User.bmp replaced. 
+[UPREP] User.png replaced. 
+[WXAP2] === Windows 10: Additional User Account Pictures Management === 
+[UPREP] User-32.png replaced. 
+[UPREP] User-40.png replaced. 
+[UPREP] User-48.png replaced. 
+[UPREP] User-192.png replaced. 
+[X8LLR] === Lock/Login Screen Routines === 
+[WX8LS] Lock Screen {img105.jpg} copied. Original renamed as img0105.jpg. 
+[WX8LI] Log-In Background {img100.jpg} copied. Original renamed as img0100.jpg. 
+[OTFTR] === Brand/Theme Files Transfer Routine === 
+[OTFTR] Brand theme folder has been created. 
+[EWBSC] Additional Wallpaper's copied as desktop backgrounds. 
+[OTFTR] Theme files have been transferred. 
+[ATHBA] Asrock OEM brand theme has been applied.  
+[BSHCS] === Script Completion === 
+[BSHCS] Branding script has completed. 
+ 
+[ADMAN] Add-On Manager: Started. 
+[SATOU] === Show User options that have now been applied === 
+[SATOU] No User Options Detected. 
+[SATOU] ===============[ End of Applied Options List ]=============== 
+[USR10] === Windows 10: User Picture, DefaultUser0 Removal and Theme Colorization Routines === 
+[USRAC] Enhanced Log-On screen has been enabled. 
+[USRAC] User Account Picture's registry entries applied.  
+[USRRO] Windows 'Registered Owner' {Winver} registry entry corrected to primary username. 
+[USRD0] Detected 'defaultuser0', removal process started. 
+[RDUPM] Removal of 'defaultuser0' account successful.  
+[AMBPS] === Checking BIOS/Boot mode, OS Partition type and Controller mode === 
+[AMBPS] BIOS/Boot Mode  : {A} Legacy 
+[AMBPS] Partition Type  : {W} MBR 
+[AMHDC] Controller Mode : {S} NVMe/PCIe 
+[CHKLS] === Detecting Activation Status/License Channel === 
+[CHKLS] License Status: Notification {Retail}  
+[OSLRC] License Status Reason Code: 0xC004F034 
+[OSLRT] License not found/invalid or could not connect to the Activation Server. 
+[CHKLS] Online connection maybe required to complete activation. 
+[ADMAN] === Finalization Routines === 
+[CLNUP] Clean Up Routine Processed. 
+[ADMAN] Add-On Manager: Completed. 
+ 
+========================================================================================= 
+=                                                                                       = 
+= Please Note: As User options, UserTweaks or Wintel scripts have been detected then    = 
+=              it is required for a reboot cycle to allow these options to take full    = 
+=              effect.                                                                  = 
+=                                                                                       = 
+========================================================================================= 
+ 
+The Multi-OEM/Retail Project has completed. 
+

@@ -1,0 +1,164 @@
+============= 
+MRP Debug Log 
+============= 
+ 
+OS Installation Date/Time : 08/02/2019 {UTC} -- 12:08am 
+MRP Version Installed     : 181027-R102.0.BL 
+MRP Config File Used      : N/A 
+ 
+Unicode Mode              : Operative 
+Original Codepage         : 852 
+  
+========= 
+Variables 
+========= 
+Install Type   : [Client {Non Server}] 
+HyperVisor     : [No] 
+PC System Type : [Desktop {0x1}] 
+Domain Detected: [No] 
+OS Name {Reg}  : [Windows 10 Pro] 
+OS SKU Version : [Windows 10 Pro {48}] 
+OS Architecture: [x64 {AR:1}] 
+Edition {RWCb} : [Professional], [Professional], [Professional] 
+Edition {Comp} : [Enterprise] 
+Edition {OSED} : [Professional] 
+Edition {OM1}  : [Professional] 
+Release ID     : [1903] 
+Build ID {R}   : [18362] 
+Build ID {V}   : [18362] 
+Build Branch{R}: [19h1_release] 
+UBR            : [175] 
+RS3 Plus       : [Yes] 
+RS4 Plus       : [Yes] 
+RS5 Plus       : [Yes] 
+Chassis Type   : [03 - Desktop] 
+Lang/Code      : [pl-PL / 1045 {0x415h}] 
+ 
+=============== 
+Main Processing 
+=============== 
+Obtaining Motherboard Information 
+Checking for SLIC and MSDM tables 
+ 
+=============== 
+DMI Information 
+=============== 
+CSNAME         : [To Be Filled By O.E.M.] 
+SYSMODEL       : [To Be Filled By O.E.M.] 
+BASEPRO        : [AB350M Pro4] 
+CSVENDOR       : [To Be Filled By O.E.M.] 
+SYSMNF         : [To Be Filled By O.E.M.] 
+BASEMNF        : [ASRock] 
+ 
+ 
+BIOS or SLIC ID 1 : [ALASKA - 1072009] 
+SLIC Information  : [No SLIC Table Present] 
+MSDM Information  : [Invalid MSDM Table Data] 
+ 
+Checking CPU and Memory Information... 
+Checking CPU 
+Checking Number of CPU's 
+Checking Cores 
+Checking Threads 
+Checking CPU Name 
+Checking CPU Description 
+Checking CPU datawidth 
+Checking CPU ID 
+Checking CPU VT 
+Checking Total Memory 
+Checking Free Memory 
+Checking Memory ErrorCorrection Type 
+Checking Memory Slots 
+Checking Memory Max Capacity 
+Total Memory - 32696 MB 
+Free Memory  - 31834 MB 
+Checking For Meltdown/Spectre 
+Show User Options Display Section 
+Drive Label Section 
+Checking For Retail.txt 
+Retail.txt file was not detected within the "Scripts" folder. 
+Checking For EI.cfg 
+Ei.cfg file was not detected. 
+Checking For Pid.txt 
+PID.txt file was not detected. 
+Parsing DMI for OEM Brand information 
+ 
+============== 
+DMI Processing 
+============== 
+CSNAME         : Voided 
+SYSMODEL       : Voided 
+CSVENDOR       : Voided 
+SYSMNF         : Voided 
+BASEMNF        : DMI + Database = Possible Match 
+ 
+No DMI conflicts found 
+ 
+DMI query routine has completed 
+ 
+Bypassed Virtual Machine data checks as DMI [Asrock] was detected 
+Asrock [#06] manufacturer was detected for automated theme/branding 
+Model name not defined within the BIOS or was user specified 
+Theme Processing Routines 
+User specified theme was not defined 
+DMI theme 'Asrock' will be applied 
+Transfer Section 
+Windows 10: Main User Account Picture Management 
+Windows 10: Additional User Account Picture Management 
+Lock/Login Screen Routines 
+Renamed img105.jpg file. 
+Theme set routine 
+See Project.log for more details of above sections. 
+Brand/Theme Files Transfer Routines 
+Theme files have been transferred. 
+Asrock OEM brand theme has been applied. 
+Check For SetupComplete/FirstLogon Files 
+ 
+Branding script has completed. 
+ 
+ 
+------------------------ Log Section 2 ------------------------ 
+Edition Chk    : [Professional] {Ed0}, [Professional] {Ed1} 
+Edition Chk2   : [W2S = Professional] 
+Pre Windows 10 : [No] 
+ 
+ 
+DefUsr0 Removal: [Method 1N - Successful]  
+ 
+TB/HL Routine  : [Default Colors] 
+TitleBar Color : [Blue] 
+HiLite Color   : [Default] 
+AccentColor    : [Default] 
+ColorizationCol: [Default] 
+AccPalletColor : [Default] 
+ 
+Bios Mode and OS Drive Partition Information 
+============================================ 
+A-Routine BMode: [Legacy] 
+A-Routine DPart: [MBR] 
+WMIC BMode     : [Installable File System] 
+WMIC DPart     : [MBR] 
+Using AR BMode : [Legacy] - Due to 'Installable File System' result from WMIC. 
+SecureBoot     : [{X} N/A] 
+Controller Mode: [{S} NVMe/PCIe] 
+ 
+Other Data 
+========== 
+AO1 Flags S1   : [DUT=0], [DWT=0], [DAT=0], [DPA=0], [DOU=0], [DSC=0], [DFL=0] 
+AO2 Flags S2   : [PRI=0], [A2A=0], [A2B=0], [MKU=0], [OSP=0], [OPT=0] 
+AO2 Flags S3   : [SEC=0] 
+ 
+ 
+================ Wifi Status ================ 
+Adaptor Status : [Adaptor not detected/driver not installed] 
+ 
+Detecting Activation Status 
+Detecting License Channel Type 
+ 
+================ License Status ================ 
+License Status : Notification {Retail}  
+Reason Code    : 0xC004F034 {Dec: 3221549108} 
+Reason Text    : License not found/invalid or could not connect to the Activation Server.  
+ 
+---------------------------------------------------------------------- 
+Debug Log Complete. 
